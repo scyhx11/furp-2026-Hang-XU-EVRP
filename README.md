@@ -1,1 +1,7 @@
-# furp-2026-Hang-XU-EVRP
+team-folder/
+  README.md
+  src/                 # implementation
+  data/                # instances or input files
+  results/             # cleaned tables and figures
+  logs/                # raw outputs, if useful
+  notes/               # paper notes and checkpoint note
