@@ -1,2 +1,2 @@
-- `src` - code
 - `notes` - reports and figures
+- `src` - code
