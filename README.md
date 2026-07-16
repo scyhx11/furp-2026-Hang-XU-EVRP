@@ -1,2 +1,2 @@
-- `src/` - implementation
-- `notes/` - paper notes and checkpoint note
+- `src` - code
+- `notes` - reports and figures
